@@ -1,0 +1,166 @@
+[2021-03-03 03:16:55pm] Campaigns | user1 | Chamberlain-2-2-00001 | Chamberlain-2-2-00001 | Create
+[2021-03-03 03:17:15pm] Campaigns | user1 | Chamberlain-2-2-00001 | Chamberlain-2-2-1 | Create
+[2021-03-03 03:18:46pm] Campaigns | user1 | Nuevo-2-3-a | Create
+[2021-03-03 03:18:55pm] Campaigns | user1 | Nuevo-2-3-a | Nuevo-2-3-abc | Modify
+[2021-03-03 03:19:02pm] Campaigns | user1 | n/a | Delete
+[2021-03-03 03:20:22pm] Campaigns | user1 | das-1-1-a | Create
+[2021-03-03 03:20:25pm] Campaigns | user1 | 51 | Delete
+[2021-03-03 03:24:57pm] Campaigns | user1 | Otro-1-2-otro | Create
+[2021-03-03 03:25:08pm] Campaigns | user1 | Otro-1-2-otro | Otro-1-2-123 | Modify
+[2021-03-03 03:25:12pm] Campaigns | user1 | Otro-1-2-123 | Delete
+[2021-03-03 04:01:31pm] Locations | user1 | new | Create
+[2021-03-03 04:01:46pm] Locations | otheruser | new | new1 | Modify
+[2021-03-03 04:01:54pm] Locations | user1 | new1 | Delete
+[2021-03-03 04:10:52pm] LoB | otheruser | lob1-1 | Create
+[2021-03-03 04:11:00pm] LoB | otheruser | lob1-1 | lob1-123 | Modify
+[2021-03-03 04:11:42pm] LoB | otheruser | lob1-123 | Delete
+[2021-03-03 04:34:35pm] Issues | user1 | Active Directory 2-4 | Create
+[2021-03-03 04:35:08pm] Issues | user1 | Active Directory 2-4 | Active Directory 2-2 | Modify
+[2021-03-03 04:35:14pm] Issues | user1 | Active Directory 2-2 | Delete
+[2021-03-03 04:44:43pm] Entry Types | user1 | grdews | Create
+[2021-03-03 04:44:56pm] Entry Types | otheruser | grdews | eaeda | Modify
+[2021-03-03 04:44:59pm] Entry Types | otheruser | eaeda | Delete
+[2021-03-03 05:03:04pm] Status | user1 | xzc-e | Create
+[2021-03-03 05:03:13pm] Status | otheruser | xzc-e | xzc-ere | Modify
+[2021-03-03 05:03:19pm] Status | user1 | xzc-ere | Delete
+[2021-03-03 05:12:10pm] Issue Types | user1 | s-1 | Create
+[2021-03-03 05:12:20pm] Issue Types | otheruser | s-1 | s-12 | Modify
+[2021-03-03 05:12:25pm] Issue Types | user1 | s-12 | Delete
+[2021-03-03 05:19:27pm] Users | user1 | Other-otheruser | Other-otheruser | Modify
+[2021-03-03 05:19:52pm] Users | user1 | Eaew-ea | Create
+[2021-03-03 05:19:58pm] Users | user1 | Eaew-ea | Eaew-ea | Modify
+[2021-03-03 05:20:10pm] Users | otheruser | Eaew-ea | Delete
+[2021-03-03 06:00:20pm] Entries | user1 | example 9-exa-6-40-2021-03-04-2021-03-07-7-19 | Create
+[2021-03-03 06:01:25pm] Entries | user1 | Ejemplo de un evento #10-d-6-23-2021-03-18-2021-03-26-7-18 | Create
+[2021-03-03 06:03:23pm] Entries | otheruser | Ejemplo de un evento #10-d-6-23-2021-03-18-2021-03-26-7-18 | Ejemplo de un evento #10-dd-1-23-2021-03-18-2021-03-26-18 | Modify
+[2021-03-03 06:04:04pm] Entries | otheruser | example 9-exa-6-40-2021-03-04-2021-03-07-7-19 | example 9-exa-6-42-2021-03-04-2021-03-07-19 | Modify
+[2021-03-03 06:04:19pm] Entries | otheruser | example 9-exa-6-42-2021-03-04-2021-03-07-7-19 | example 9-exa-6-46-2021-03-04-2021-03-07-19 | Modify
+[2021-03-03 06:04:49pm] Entries | otheruser | Ejemplo de un evento #10-dd-1-23-2021-03-18-2021-03-26-7-18 | Delete
+[2021-03-03 06:16:28pm] Events | user1 | Evento 17-Ejemplo de un evento #17-5-8-5-Ejemplo User-7-1234-1234-18-20 | Create
+[2021-03-03 06:16:49pm] Events | otheruser | Evento 17-Ejemplo de un evento #17-5-8-5-Ejemplo User-7-1234-1234-18-2021-03-03 18:36:28-Not Completed | Evento 17-Ejemplo de un evento #17-5-8-5-Ejemplo-1234-1234-18 | Modify
+[2021-03-03 06:16:58pm] Events | otheruser | Evento 17-Ejemplo de un evento #17-5-8-5-Ejemplo-7-1234-1234-18-2021-03-03 18:36:28-Completed- | Delete
+[2021-03-03 08:21:43pm] Events | user1 | Evento 15-Ejemplo de un evento #15-2-8-34-Ejemplo-6-1234-1234-19-2021-03-03 13:12:03-Not Completed | Evento 15-Ejemplo de un evento #15-2-8-34-Ejemplo-1234-1234-19 | Modify
+[2021-03-03 08:29:18pm] Events | user1 | Evento 15-Ejemplo de un evento #15-2-8-34-Ejemplo-6-1234-1234-19-2021-03-03 13:12:03-Not Completed | Evento 15-Ejemplo de un evento #15-2-8-34-Ejemplo-1234-1234-19 | Modify
+[2021-03-03 08:35:23pm] Events | user1 | Evento 15-Ejemplo de un evento #15-2-8-34-Ejemplo-6-1234-1234-19-2021-03-03 13:12:03-Not Completed | Evento 15-Ejemplo de un evento #15-2-8-34-Ejemplo-1234-1234-19 | Modify
+[2021-03-03 08:37:00pm] Events | user1 | Evento 15-Ejemplo de un evento #15-2-8-34-Ejemplo-6-1234-1234-19-2021-03-03 13:12:03-Completed | Evento 15-Ejemplo de un evento #15-2-8-34-Ejemplo-1234-1234-19 | Modify
+[2021-03-03 08:42:50pm] Events | user1 | Evento 15-Ejemplo de un evento #15-2-8-34-Ejemplo-6-1234-1234-19-2021-03-03 13:12:03-Not Completed | Evento 15-Ejemplo de un evento #15-2-8-34-Ejemplo-1234-1234-19 | Modify
+[2021-03-04 08:46:56am] Issue Types | user1 | VPN-5 | Create
+[2021-03-04 08:48:15am] Issues | user1 | GENESYS-5 | Create
+[2021-03-04 08:48:40am] Issues | user1 | Active Directory-5 | Active Directory-2 | Modify
+[2021-03-04 09:14:48am] Issues | user1 | Active Directory-2 | Active Directory-2-24 | Modify
+[2021-03-04 09:14:56am] Issues | user1 | Active Directory-2 | Active Directory-2-22 | Modify
+[2021-03-04 09:17:40am] Issues | user1 | Active Directory-2 | Active Directory-2-20 | Modify
+[2021-03-04 09:21:34am] Issue Types | user1 | dass | Create
+[2021-03-04 09:23:06am] Issue Types | otheruser | dass | dassa | Modify
+[2021-03-04 09:23:10am] Issue Types | otheruser | dassa | Delete
+[2021-03-04 09:24:11am] Issues | user1 | Active Directory 2-5-6 | Create
+[2021-03-04 09:24:21am] Issues | otheruser | Active Directory 2-5-6 | Active Directory 2-5-11 | Modify
+[2021-03-04 09:24:28am] Issues | user1 | Active Directory 2-5-11 | Delete
+[2021-03-04 09:28:16am] Events | user1 | Evento 15-Ejemplo de un evento #15-2-8-34-Ejemplo-6-1234-1234-19-2021-03-03 13:12:03-Not Completed | Evento 15-Ejemplo de un evento #15-4-8-34-Ejemplo-1234-1234-19 | Modify
+[2021-03-04 09:35:21am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-18-25 | Create
+[2021-03-04 09:35:42am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-18-2021-03-04 10:00:21-Not Completed | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-18 | Modify
+[2021-03-04 09:48:27am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-18-2021-03-04 10:00:21-Completed | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-18 | Modify
+[2021-03-04 09:53:11am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-18-2021-03-04 10:00:21-Completed | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-18 | Modify
+[2021-03-04 09:53:36am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-18-2021-03-04 10:00:21-Completed | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-18 | Modify
+[2021-03-04 09:54:59am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-18-2021-03-04 10:00:21-Completed | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-18 | Modify
+[2021-03-04 09:59:04am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-18-2021-03-04 10:00:21-Completed | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-18 | Modify
+[2021-03-04 09:59:38am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-18-2021-03-04 10:00:21-Completed | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-18 | Modify
+[2021-03-04 09:59:55am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-18-2021-03-04 10:00:21-Completed | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-18 | Modify
+[2021-03-04 10:06:55am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-18-2021-03-04 10:00:21-Completed | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-18 | Modify
+[2021-03-04 10:07:40am] Events | user1 | Evento 18-Ejemplo de un evento #18-5-11-23-Ejemplo User-7-1234-1234-19-25 | Create
+[2021-03-04 10:07:48am] Events | user1 | Evento 18-Ejemplo de un evento #18-5-11-23-Ejemplo User-7-1234-1234-19-2021-03-04 10:32:40-Not Completed | Evento 18-Ejemplo de un evento #18-5-11-23-Ejemplo User-1234-1234-14 | Modify
+[2021-03-04 10:08:07am] Events | user1 | Evento 18-Ejemplo de un evento #18-5-11-23-Ejemplo User-7-1234-1234-14-2021-03-04 10:32:40-Not Completed | Evento 18-Ejemplo de un evento #18-5-11-23-Ejemplo User-1234-1234-18 | Modify
+[2021-03-04 10:08:19am] Events | user1 | Evento 18-Ejemplo de un evento #18-5-11-23-Ejemplo User-7-1234-1234-18-2021-03-04 10:32:40-Not Completed | Evento 18-Ejemplo de un evento #18-5-11-23-Ejemplo User-1234-1234-19 | Modify
+[2021-03-04 10:11:25am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-18-2021-03-04 10:00:21-Completed | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-14 | Modify
+[2021-03-04 10:11:37am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-14-2021-03-04 10:00:21-Not Completed | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-19 | Modify
+[2021-03-04 10:12:04am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-19-2021-03-04 10:34:21-Not Completed | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-19 | Modify
+[2021-03-04 10:12:55am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-19-2021-03-04 10:00:21-Completed | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-18 | Modify
+[2021-03-04 10:13:32am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-18-2021-03-04 10:00:21-Not Completed | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-18 | Modify
+[2021-03-04 10:14:55am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-18-2021-03-04 10:00:21-Out of Time | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-18 | Modify
+[2021-03-04 10:15:23am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-18-2021-03-04 10:00:21-Not Completed | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-19 | Modify
+[2021-03-04 10:15:38am] Events | user1 | Evento 18-Ejemplo de un evento #18-5-11-23-Ejemplo User-7-1234-1234-19-2021-03-04 10:32:40-Completed | Evento 18-Ejemplo de un evento #18-5-11-23-Ejemplo User-1234-1234-19 | Modify
+[2021-03-04 10:29:17am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-19-2021-03-04 10:00:21-Out of Time | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-1234-1234-14 | Modify
+[2021-03-04 10:30:04am] Events | user1 | Evento 17-Ejemplo de un evento #17-5-11-34-Ejemplo User-7-1234-1234-14-2021-03-04 10:00:21-Not Completed | Evento 17-Ejemplo de un evento #17-9-11-34-Ejemplo User-1234-1234-14 | Modify
+[2021-03-04 10:30:12am] Events | user1 | Evento 17-Ejemplo de un evento #17-9-11-34-Ejemplo User-7-1234-1234-14-2021-03-04 10:00:21-Not Completed | Evento 17-Ejemplo de un evento #17-9-11-34-Ejemplo User-1234-1234-19 | Modify
+[2021-03-04 10:30:25am] Events | user1 | Evento 15-Ejemplo de un evento #15-4-8-34-Ejemplo-6-1234-1234-19-2021-03-03 13:12:03-Not Completed | Evento 15-Ejemplo de un evento #15-4-8-34-Ejemplo-1234-1234-19 | Modify
+[2021-03-04 10:31:22am] Events | user1 | Evento 15-Ejemplo de un evento #15-4-8-34-Ejemplo-6-1234-1234-19-2021-03-03 13:12:03-Out of Time | Evento 15-Ejemplo de un evento #15-2-8-34-Ejemplo-1234-1234-19 | Modify
+[2021-03-04 02:52:42pm] Issues | user1 | Active Directory 2-5-11 | Create
+[2021-03-04 03:23:30pm] Issues | user1 | Active Directory 2-5-11 | Delete
+[2021-03-04 05:20:54pm] Events | user1 | Evento 14-Ejemplo de un evento #14-4-8-34-Ejemplo-7-1234-1234-18-2021-03-03 13:11:56-Not Completed | Evento 14-Ejemplo de un evento #14-4-8-34-Ejemplo-1234-1234-18 | Modify
+[2021-03-04 05:27:25pm] Events | user1 | Evento 14-Ejemplo de un evento #14-4-8-34-Ejemplo-7-1234-1234-18-2021-03-03 13:11:56-Not Completed | Evento 14-Ejemplo de un evento #14-4-8-34-Ejemplo-1234-1234-18 | Modify
+[2021-03-04 05:30:27pm] Events | user1 | Evento 14-Ejemplo de un evento #14-4-8-34-Ejemplo-7-1234-1234-18-2021-03-03 13:11:56-Not Completed | Evento 14-Ejemplo de un evento #14-4-8-34-Ejemplo-1234-1234-18 | Modify
+[2021-03-04 05:31:16pm] Events | user1 | Evento 10-Ejemplo de un evento #10-4-8-8-Ejemplo-7-1234-1234-18-2021-03-03 13:11:50-Completed | Evento 10-Ejemplo de un evento #10-4-8-8-Ejemplo-1234-1234-19 | Modify
+[2021-03-04 05:32:48pm] Events | otheruser | Evento 8-Ejemplo de un evento #8-4-8-42-Ejemplo-7-1234-1234-19-2021-03-03 13:11:41-Not Completed | Evento 8-Ejemplo de un evento #8-4-11-42-Ejemplo-1234-1234-19 | Modify
+[2021-03-04 07:17:09pm] Issues | user1 | Active Directory 2-2-21 | Create
+[2021-03-04 07:17:43pm] Issues | user1 | Active Directory 2-2-21 | Delete
+[2021-03-05 08:57:32am] Profile | user1 | User #1-user1 | User #1-user1 | Modify
+[2021-03-05 09:01:02am] Profile | user1 | User #1-user1 | User #1-user1 | Modify
+[2021-03-05 09:01:29am] Profile | user1 | User #1-user1 | SS-user1 | Modify
+[2021-03-05 09:01:42am] Profile | user1 | SS-user1 | User One-user1 | Modify
+[2021-03-05 09:03:25am] Profile | user1 | User One-user1 | User One-user1 | Modify
+[2021-03-05 09:20:05am] Events | user1 | Evento 6-Ejemplo de un evento #6-2-8-23-Ejemplo-7-1234-1234-18-2021-03-03 13:11:25-Completed | Evento 6-Ejemplo de un evento #6-2-8-23-Ejemplo-1234-1234-18 | Modify
+[2021-03-05 09:20:36am] Events | user1 | Evento 5-Ejemplo de un evento #5-5-8-46-Ejemplo-4-1234-1234-18-2021-03-03 13:11:25-Completed | Evento 5-Ejemplo de un evento #5-5-8-46-Ejemplo-1234-1234-19 | Modify
+[2021-03-05 09:21:22am] Events | otheruser | Evento 5-Ejemplo de un evento #5-5-8-46-Ejemplo-4-1234-1234-19-2021-03-03 13:11:25-Out of Time | Evento 5-Ejemplo de un evento #5-5-8-46-Ejemplo-1234-1234-19 | Modify
+[2021-03-05 09:39:46am] Events | user1 | Evento 19-Ejemplo de un evento #19-2-8-5-Ejemplo-7-1234-1234-18- | Create
+[2021-03-05 09:43:59am] Events | user1 | Evento 19-Ejemplo de un evento #19-2-8-5-Ejemplo-7-1234-1234-14- | Create
+[2021-03-05 09:45:24am] Events | user1 | Evento 19-Ejemplo de un evento #19-5-11-5-Ejemplo-7-1234-1234-14-25 | Create
+[2021-03-05 10:01:04am] Events | user1 | Evento 19-Ejemplo de un evento #19-5-11-5-Ejemplo-7-1234-1234-14-2021-03-05 10:10:24-Not Completed | Evento 19-Ejemplo de un evento #19-5-11-5-Ejemplo-1234-1234-18 | Modify
+[2021-03-05 12:15:28pm] Events | user1 | Evento 12-Ejemplo de un evento #12-2-8-8-Ejemplo-7-1234-1234-14-2021-03-03 13:11:52-Not Completed | Evento 12-Ejemplo de un evento #12-2-8-8-Ejemplo-1234-1234-18 | Modify
+[2021-03-05 12:17:35pm] Events | user1 | Evento 3-Ejemplo de un evento #3-2-8-34-Ejemplo User-7-1212-1212-19-2021-03-03 13:11:21-Not Completed | Evento 3-Ejemplo de un evento #3-2-8-34-Ejemplo User-1212-1212-18 | Modify
+[2021-03-05 12:18:12pm] Events | otheruser | Evento 2-Ejemplo de un evento #2-5-8-5-Ejemplo-7-1234-1234-14-2021-03-03 13:11:10-Not Completed | Evento 2-Ejemplo de un evento #2-5-8-5-Ejemplo-1234-1234-14 | Modify
+[2021-03-05 12:25:53pm] Events | otheruser | Evento 2-Ejemplo de un evento #2-5-8-5-Ejemplo-7-1234-1234-14-2021-03-03 13:11:10-Not Completed | Evento 2-Ejemplo de un evento #2-5-8-5-Ejemplo-1234-1234-14 | Modify
+[2021-03-05 01:09:43pm] Events | otheruser | Evento 2-Ejemplo de un evento #2-5-8-5-Ejemplo-7-1234-1234-14-2021-03-03 13:11:10-Not Completed | Evento 2-Ejemplo de un evento #2-5-8-5-Ejemplo-1234-1234-18 | Modify
+[2021-03-05 01:10:13pm] Events | otheruser | Evento 9-Ejemplo de un evento #9-4-8-40-Ejemplo-8-1234-1234-18-2021-03-03 13:11:41-Completed | Evento 9-Ejemplo de un evento #9-4-8-40-Ejemplo-1234-1234-18 | Modify
+[2021-03-05 01:26:41pm] Events | user1 | Evento 3-Ejemplo de un evento #3-2-8-34-Ejemplo User-7-1212-1212-18-2021-03-03 13:11:21-Not Completed | Evento 3-Ejemplo de un evento #3-2-8-34-Ejemplo User-1212-1212-19 | Modify
+[2021-03-05 01:44:13pm] Events | otheruser | Evento 3-Ejemplo de un evento #3-2-8-34-Ejemplo User-7-1212-1212-19-2021-03-03 13:11:21-Out of Time | Evento 3-Ejemplo de un evento #3-2-8-34-Ejemplo User-1212-1212-19 | Modify
+[2021-03-05 01:44:23pm] Events | otheruser | Evento 2-Ejemplo de un evento #2-5-8-5-Ejemplo-7-1234-1234-18-2021-03-03 13:11:10-Not Completed | Evento 2-Ejemplo de un evento #2-5-8-5-Ejemplo-1234-1234-18 | Modify
+[2021-03-05 01:46:08pm] Events | otheruser | Evento 15-Ejemplo de un evento #15-2-8-34-Ejemplo-6-1234-1234-19-2021-03-03 13:12:03-Out of Time | Evento 15-Ejemplo de un evento #15-2-8-34-Ejemplo-1234-1234-19 | Modify
+[2021-03-05 02:00:57pm] Events | otheruser | Evento 3-Ejemplo de un evento #3-2-8-34-Ejemplo User-7-1212-1212-19-2021-03-03 13:11:21-Out of Time | Evento 3-Ejemplo de un evento #3-2-8-34-Ejemplo User-1212-1212-19 | Modify
+[2021-03-05 02:01:04pm] Events | otheruser | Evento 14-Ejemplo de un evento #14-4-8-34-Ejemplo-7-1234-1234-18-2021-03-03 13:11:56-Not Completed | Evento 14-Ejemplo de un evento #14-4-8-34-Ejemplo-1234-1234-18 | Modify
+[2021-03-05 02:02:20pm] Events | user1 | Evento 19-Ejemplo de un evento #19-5-11-5-Ejemplo-7-1234-1234-18-2021-03-05 10:10:24-Not Completed | Evento 19-Ejemplo de un evento #19-5-11-5-Ejemplo-1234-1234-19 | Modify
+[2021-03-05 02:22:16pm] Events | user1 | Evento 13-Ejemplo de un evento #13-5-8-46-Ejemplo-7-1234-1234-18-2021-03-03 13:11:53-Completed | Evento 13-Ejemplo de un evento #13-5-11-46-Ejemplo-1234-1234-18 | Modify
+[2021-03-05 02:23:03pm] Events | user1 | Evento 19-Ejemplo de un evento #19-5-11-5-Ejemplo-7-1234-1234-19-2021-03-05 10:10:24-Out of Time | Evento 19-Ejemplo de un evento #19-5-11-8-Ejemplo-1234-1234-19 | Modify
+[2021-03-05 02:24:38pm] Events | user1 | Evento 16-Ejemplo de un evento #16-5-8-42-Ejemplo User-7-1234-1234-19-2021-03-03 13:18:08-Completed | Evento 16-Ejemplo de un evento #16-5-11-42-Ejemplo User-1234-1234-19 | Modify
+[2021-03-05 02:26:41pm] Profile | otheruser | Other-otheruser | Other-otheruser | Modify
+[2021-03-05 02:37:09pm] Events | user1 | Evento 17-Ejemplo de un evento #17-9-11-34-Ejemplo User-7-1234-1234-19-2021-03-04 10:00:21-Out of Time | Evento 17-Ejemplo de un evento #17-2-8-34-Ejemplo User-1234-1234-19 | Modify
+[2021-03-05 03:26:35pm] Campaigns | otheruser | NEST-3-3-ty | NEST-3-3-ty | Modify
+[2021-03-05 03:28:41pm] Campaigns | otheruser | s-2-1-s | Create
+[2021-03-05 03:28:45pm] Campaigns | otheruser | s-2-1-s | s-2-1-sss | Modify
+[2021-03-05 03:28:49pm] Campaigns | otheruser | s-2-1-sss | Delete
+[2021-03-05 03:31:11pm] LoB | user1 | sada-sas | Create
+[2021-03-05 03:31:16pm] LoB | user1 | sada-sas | sada-sasss | Modify
+[2021-03-05 03:31:19pm] LoB | user1 | sada-sasss | Delete
+[2021-03-05 03:34:10pm] Entry Types | otheruser | dsfsasd | Create
+[2021-03-05 03:34:14pm] Entry Types | otheruser | dsfsasd | dsfss | Modify
+[2021-03-05 03:34:17pm] Entry Types | otheruser | dsfss | Delete
+[2021-03-05 03:36:31pm] Locations | otheruser | dasd | Create
+[2021-03-05 03:36:35pm] Locations | otheruser | dasd | dasddsa | Modify
+[2021-03-05 03:36:37pm] Locations | otheruser | dasddsa | Delete
+[2021-03-05 03:38:26pm] Status | otheruser | c-c | Create
+[2021-03-05 03:38:30pm] Status | otheruser | c-c | cc-c | Modify
+[2021-03-05 03:38:33pm] Status | otheruser | cc-c | Delete
+[2021-03-05 03:40:45pm] Users | otheruser | s-s | Create
+[2021-03-05 03:40:50pm] Users | otheruser | s-s | s-s | Modify
+[2021-03-05 03:40:54pm] Users | otheruser | s-s | Delete
+[2021-03-05 03:43:01pm] Issue Types | otheruser | sasd | Create
+[2021-03-05 03:43:05pm] Issue Types | otheruser | sasd | sasdss | Modify
+[2021-03-05 03:43:08pm] Issue Types | otheruser | sasdss | Delete
+[2021-03-05 03:50:26pm] Issues | otheruser | s-4-12 | Create
+[2021-03-05 03:50:32pm] Issues | otheruser | s-4-12 | ss-4-121 | Modify
+[2021-03-05 03:50:37pm] Issues | otheruser | ss-4-121 | ssss-4-121 | Modify
+[2021-03-05 03:50:40pm] Issues | otheruser | ssss-4-121 | Delete
+[2021-03-05 03:55:27pm] Entries | otheruser | dsd-asd-6-34-2021-02-24-2021-03-10-6-18 | Create
+[2021-03-05 03:55:37pm] Entries | otheruser | dsd-asd-6-34-2021-02-24-2021-03-10-6-18 | dsddasd-asddasda-6-34-2021-02-24-2021-03-10-18 | Modify
+[2021-03-05 03:55:51pm] Entries | otheruser | dsddasd-asddasda-6-34-2021-02-24-2021-03-10-6-18 | Delete
+[2021-03-05 04:02:38pm] Events | otheruser | e-e-2-8-25-e-6-1234-1234-18-20 | Create
+[2021-03-05 04:04:34pm] Events | otheruser | e-e-2-8-25-e-6-1234-1234-18-20 | Create
+[2021-03-05 04:04:45pm] Events | otheruser | e-e-2-8-25-e-6-1234-1234-18-2021-03-05 16:22:38-Not Completed | e-eee-2-8-25-e-1234-1234-18 | Modify
+[2021-03-05 04:04:51pm] Events | otheruser | e-e-2-8-25-e-6-1234-1234-18-2021-03-05 16:24:34-Not Completed | es-e-2-8-25-e-1234-1234-18 | Modify
+[2021-03-05 04:04:56pm] Events | otheruser | e-eee-2-8-25-e-6-1234-1234-18-2021-03-05 16:22:38-Not Completed- | Delete
+[2021-03-05 04:05:00pm] Events | otheruser | es-e-2-8-25-e-6-1234-1234-18-2021-03-05 16:24:34-Not Completed- | Delete
+[2021-03-05 04:06:53pm] Events | user1 | Evento 6-Ejemplo de un evento #6-2-8-23-Ejemplo-7-1234-1234-18-2021-03-03 13:11:25-Not Completed | Evento 6-Ejemplo de un evento #6-2-8-23-Ejemplo-1234-1234-19 | Modify
+[2021-03-05 04:23:07pm] Issues | user1 | Active Directory 2-2-12 | Create
+[2021-03-05 04:23:37pm] Issues | user1 | Active Directory 2-2-12 | Delete
+[2021-03-05 04:23:37pm] Issues | user1 | Active Directory 2-2-12 | Delete
+[2021-03-05 04:27:22pm] Events | otheruser | Evento 3-Ejemplo de un evento #3-2-8-34-Ejemplo User-7-1212-1212-19-2021-03-03 13:11:21-Out of Time | Evento 3-Ejemplo de un evento #3-2-8-34-Ejemplo User-1212-1212-19 | Modify
+[2021-03-05 04:28:03pm] Events | user1 | Evento 13-Ejemplo de un evento #13-5-11-46-Ejemplo-7-1234-1234-18-2021-03-03 13:11:53-Not Completed | Evento 13-Ejemplo de un evento #13-5-11-46-Ejemplo-1234-1234-18 | Modify
